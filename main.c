@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Esto puede cambiar!\n");
+    printf("Creo que estoy empezando a entender esto!\n");
     return 0;
 }
