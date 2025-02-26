@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Mira el papafrita este!\n");
+    printf("Esto puede cambiar!\n");
     return 0;
 }
