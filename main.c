@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Salta la gamba salta!\n");
+    printf("Mira el papafrita este!\n");
     return 0;
 }
